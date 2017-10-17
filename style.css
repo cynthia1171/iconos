@@ -1,0 +1,61 @@
+#contenedor{
+	width: 1000px;
+	height: 500px;
+	position: absolute;
+	left: 160px;
+}
+
+h2{
+	font-family: 'Pathway Gothic One', sans-serif;
+}
+
+p{
+	font-size: 22px;
+}
+
+.box{
+	width: 200px;
+	height: 500px;
+	text-align: center;
+	background-color: #E0E0E0;
+	float: left;
+	font-family: 'Amatic SC', cursive;
+}
+
+.box:hover{
+	background-color: #fff;
+	color: #9FD7F7;
+}
+
+.icon-brand8:before {
+  content: "\e907";
+  color: #a4c639;
+  font-size: 100px;
+  color: #000;
+}
+
+.icon-brand9:before {
+  content: "\e908";
+  color: #999;
+  font-size: 100px;
+  color: #000;
+}
+
+.icon-brand14:before {
+  content: "\e90d";
+  color: #2319dc;
+  font-size: 100px;
+  color: #000;
+}
+
+.icon-brand35:before {
+  content: "\e922";
+  font-size: 100px;
+  color: #000;
+}
+
+.icon-brand84:before {
+  content: "\e953";
+  font-size: 100px;
+  color: #000;
+}
